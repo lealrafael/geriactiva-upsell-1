@@ -3,5 +3,5 @@
   "preco": 15.5,
   "moeda": "USD",
   "checkoutUrl": "https://pay.cakto.com.br/3fq5giq_1342163",
-  "paginaVendas": "https://geriactiva.infoprodutosbr99.workers.dev"
+  "paginaVendas": "https://geriactiva-upsell-1.infoprodutosbr99.workers.dev/"
 }
